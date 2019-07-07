@@ -59,10 +59,9 @@
       <scope>test</scope>
     </dependency>
 
-    <!-- In UNC repository (isis.unc.edu) -->
     <dependency>
-    	<groupId>samtools</groupId>
-    	<artifactId>sam</artifactId>
+    	<groupId>com.github.samtools</groupId>
+    	<artifactId>htsjdk</artifactId>
     	<version>1.129</version>
 	</dependency>
 	
